@@ -2,7 +2,7 @@ import os
 import re
 
 # 指定目录路径
-directory = '/Users/mikey/Documents/OB/mikey/004_B站/尚硅谷-禹神/vue3+TypeScript'
+directory = '~/Documents'
 
 # 遍历目录下的所有 HTML 文件
 for filename in os.listdir(directory):
